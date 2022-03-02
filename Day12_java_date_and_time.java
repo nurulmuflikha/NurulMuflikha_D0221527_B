@@ -1,6 +1,6 @@
-package gibranghadavi;
+package yhummyChild;
 import java.io.*;
-public class Day12 {
+public class Day12_java_date_and_time {
     public static void main(String[] args){
        SimpleDateFormat sdf = new SimpleDateFormat ("EEEE");
        Calendar calendar = new GregorianCalendar (year, month-1, day);
