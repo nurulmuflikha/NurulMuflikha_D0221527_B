@@ -1,6 +1,6 @@
 import java.util.*;
 import java.security.*;
-public class Solution {
+public class Day11_java_int_to_string {
  public static void main(String[] args) {
 
   DoNotTerminate.forbidExit();

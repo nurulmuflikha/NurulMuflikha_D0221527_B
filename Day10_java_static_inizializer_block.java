@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Day10_java_static_inivializer_block.java {
+public class Day10_java_static_inivializer_block {
 
 static Scanner sc = new Scanner(System.in);
 static int B = sc.nextInt();
